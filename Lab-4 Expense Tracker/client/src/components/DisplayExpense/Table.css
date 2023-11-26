@@ -1,0 +1,35 @@
+.payToData{
+    background-color: #DF3062;
+    color: whitesmoke;
+    padding: 0.5rem;
+    margin-left: 7px;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+.paymentDetails{
+    background-color: #393f4d;
+    color: whitesmoke;
+    width: fit-content;
+}
+
+.expensesHeader{
+    background-color: #0F0C24;
+    color: whitesmoke;
+}
+
+
+.size{
+    margin: 7px 0 5px 7px;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.blueBg{
+    background-color: #1181B2;
+    color: white;
+}
+
+.whiteBg{
+    background-color: #DDEDF4;
+}

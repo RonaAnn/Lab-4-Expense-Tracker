@@ -1,0 +1,26 @@
+.subText{
+    font-size: 12px;
+    color: red;
+}
+.instruction{
+    font-size: 10px;
+}
+
+hr {
+    margin-top: 0.5em !important;
+    margin-bottom: 0em !important;
+    border-width: 1px;
+}
+
+.required{
+    font-weight: bold;
+}
+.required:after {
+    content: "*";
+    color: red;
+}
+
+.btn{
+    margin-left: 0.5rem;
+    float: right;
+}
